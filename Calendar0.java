@@ -47,7 +47,7 @@ public class Calendar0 {
 					days = 31;
 					break;
 				case 2:
-					days = 28;
+					days = 29;
 					break;
 				case 3:
 					days = 31;
@@ -88,7 +88,7 @@ public class Calendar0 {
 					days = 31;
 					break;
 				case 2:
-					days = 29;
+					days = 28;
 					break;
 				case 3:
 					days = 31;
