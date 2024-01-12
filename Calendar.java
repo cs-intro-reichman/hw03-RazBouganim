@@ -158,6 +158,9 @@ public class Calendar {
 					break;
 			}
 		}
+		/*you didn't need to copy-paste the switch case for leap year, you just needed to check the specific 
+		months that are effected and do the if there.
+		as a rule code copy is very bad*/
 		return days;
 	}
 }
